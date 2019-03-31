@@ -1,0 +1,9 @@
+C:\Users\Lab3\Desktop\28-03-2019\Proyecto001\Proyecto001\bin\Debug\Proyecto001.exe.config
+C:\Users\Lab3\Desktop\28-03-2019\Proyecto001\Proyecto001\bin\Debug\Proyecto001.exe
+C:\Users\Lab3\Desktop\28-03-2019\Proyecto001\Proyecto001\bin\Debug\Proyecto001.pdb
+C:\Users\Lab3\Desktop\28-03-2019\Proyecto001\Proyecto001\obj\Debug\Proyecto001.csprojResolveAssemblyReference.cache
+C:\Users\Lab3\Desktop\28-03-2019\Proyecto001\Proyecto001\obj\Debug\Proyecto001.Form1.resources
+C:\Users\Lab3\Desktop\28-03-2019\Proyecto001\Proyecto001\obj\Debug\Proyecto001.Properties.Resources.resources
+C:\Users\Lab3\Desktop\28-03-2019\Proyecto001\Proyecto001\obj\Debug\Proyecto001.csproj.GenerateResource.Cache
+C:\Users\Lab3\Desktop\28-03-2019\Proyecto001\Proyecto001\obj\Debug\Proyecto001.exe
+C:\Users\Lab3\Desktop\28-03-2019\Proyecto001\Proyecto001\obj\Debug\Proyecto001.pdb

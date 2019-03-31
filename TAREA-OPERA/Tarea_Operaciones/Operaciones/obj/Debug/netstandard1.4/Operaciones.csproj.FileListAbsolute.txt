@@ -1,0 +1,16 @@
+C:\Users\ulise\Desktop\30-03-2019\Tarea_Operaciones\Operaciones\bin\Debug\netstandard1.4\Operaciones.deps.json
+C:\Users\ulise\Desktop\30-03-2019\Tarea_Operaciones\Operaciones\bin\Debug\netstandard1.4\Operaciones.dll
+C:\Users\ulise\Desktop\30-03-2019\Tarea_Operaciones\Operaciones\bin\Debug\netstandard1.4\Operaciones.pdb
+C:\Users\ulise\Desktop\30-03-2019\Tarea_Operaciones\Operaciones\obj\Debug\netstandard1.4\Operaciones.csprojAssemblyReference.cache
+C:\Users\ulise\Desktop\30-03-2019\Tarea_Operaciones\Operaciones\obj\Debug\netstandard1.4\Operaciones.csproj.CoreCompileInputs.cache
+C:\Users\ulise\Desktop\30-03-2019\Tarea_Operaciones\Operaciones\obj\Debug\netstandard1.4\Operaciones.AssemblyInfo.cs
+C:\Users\ulise\Desktop\30-03-2019\Tarea_Operaciones\Operaciones\obj\Debug\netstandard1.4\Operaciones.dll
+C:\Users\ulise\Desktop\30-03-2019\Tarea_Operaciones\Operaciones\obj\Debug\netstandard1.4\Operaciones.pdb
+C:\Users\ulise\Desktop\TAREA-OPERA\Tarea_Operaciones\Operaciones\bin\Debug\netstandard1.4\Operaciones.deps.json
+C:\Users\ulise\Desktop\TAREA-OPERA\Tarea_Operaciones\Operaciones\bin\Debug\netstandard1.4\Operaciones.dll
+C:\Users\ulise\Desktop\TAREA-OPERA\Tarea_Operaciones\Operaciones\bin\Debug\netstandard1.4\Operaciones.pdb
+C:\Users\ulise\Desktop\TAREA-OPERA\Tarea_Operaciones\Operaciones\obj\Debug\netstandard1.4\Operaciones.csprojAssemblyReference.cache
+C:\Users\ulise\Desktop\TAREA-OPERA\Tarea_Operaciones\Operaciones\obj\Debug\netstandard1.4\Operaciones.csproj.CoreCompileInputs.cache
+C:\Users\ulise\Desktop\TAREA-OPERA\Tarea_Operaciones\Operaciones\obj\Debug\netstandard1.4\Operaciones.AssemblyInfo.cs
+C:\Users\ulise\Desktop\TAREA-OPERA\Tarea_Operaciones\Operaciones\obj\Debug\netstandard1.4\Operaciones.dll
+C:\Users\ulise\Desktop\TAREA-OPERA\Tarea_Operaciones\Operaciones\obj\Debug\netstandard1.4\Operaciones.pdb

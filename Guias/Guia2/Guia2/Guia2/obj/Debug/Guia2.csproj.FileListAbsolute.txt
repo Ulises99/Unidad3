@@ -1,0 +1,26 @@
+C:\Users\ulise\Desktop\Guia2\Guia2\Guia2\obj\Debug\Guia2.csprojAssemblyReference.cache
+C:\Users\ulise\Desktop\Guia2\Guia2\Guia2\obj\Debug\Guia2.MDIParent1.resources
+C:\Users\ulise\Desktop\Guia2\Guia2\Guia2\obj\Debug\Guia2.Properties.Resources.resources
+C:\Users\ulise\Desktop\Guia2\Guia2\Guia2\obj\Debug\Guia2.csproj.GenerateResource.cache
+C:\Users\ulise\Desktop\Guia2\Guia2\Guia2\obj\Debug\Guia2.csproj.CoreCompileInputs.cache
+C:\Users\ulise\Desktop\Guia2\Guia2\Guia2\bin\Debug\Guia2.exe.config
+C:\Users\ulise\Desktop\Guia2\Guia2\Guia2\bin\Debug\Guia2.exe
+C:\Users\ulise\Desktop\Guia2\Guia2\Guia2\bin\Debug\Guia2.pdb
+C:\Users\ulise\Desktop\Guia2\Guia2\Guia2\obj\Debug\Guia2.exe
+C:\Users\ulise\Desktop\Guia2\Guia2\Guia2\obj\Debug\Guia2.pdb
+C:\Users\ulise\Desktop\Guia2\Guia2\Guia2\obj\Debug\Guia2.Ejercicio1.resources
+C:\Users\ulise\Desktop\Guia2\Guia2\Guia2\obj\Debug\Guia2.Ejercicio2.resources
+C:\Users\ulise\Desktop\Guia2\Guia2\Guia2\obj\Debug\Guia2.Ejercicio3.resources
+C:\Users\ulise\Desktop\Ciclo_5\Progra 1\U_3\Guia2\Guia2\Guia2\bin\Debug\Guia2.exe.config
+C:\Users\ulise\Desktop\Ciclo_5\Progra 1\U_3\Guia2\Guia2\Guia2\bin\Debug\Guia2.exe
+C:\Users\ulise\Desktop\Ciclo_5\Progra 1\U_3\Guia2\Guia2\Guia2\bin\Debug\Guia2.pdb
+C:\Users\ulise\Desktop\Ciclo_5\Progra 1\U_3\Guia2\Guia2\Guia2\obj\Debug\Guia2.csprojAssemblyReference.cache
+C:\Users\ulise\Desktop\Ciclo_5\Progra 1\U_3\Guia2\Guia2\Guia2\obj\Debug\Guia2.Ejercicio1.resources
+C:\Users\ulise\Desktop\Ciclo_5\Progra 1\U_3\Guia2\Guia2\Guia2\obj\Debug\Guia2.Ejercicio2.resources
+C:\Users\ulise\Desktop\Ciclo_5\Progra 1\U_3\Guia2\Guia2\Guia2\obj\Debug\Guia2.Ejercicio3.resources
+C:\Users\ulise\Desktop\Ciclo_5\Progra 1\U_3\Guia2\Guia2\Guia2\obj\Debug\Guia2.MDIParent1.resources
+C:\Users\ulise\Desktop\Ciclo_5\Progra 1\U_3\Guia2\Guia2\Guia2\obj\Debug\Guia2.Properties.Resources.resources
+C:\Users\ulise\Desktop\Ciclo_5\Progra 1\U_3\Guia2\Guia2\Guia2\obj\Debug\Guia2.csproj.GenerateResource.cache
+C:\Users\ulise\Desktop\Ciclo_5\Progra 1\U_3\Guia2\Guia2\Guia2\obj\Debug\Guia2.csproj.CoreCompileInputs.cache
+C:\Users\ulise\Desktop\Ciclo_5\Progra 1\U_3\Guia2\Guia2\Guia2\obj\Debug\Guia2.exe
+C:\Users\ulise\Desktop\Ciclo_5\Progra 1\U_3\Guia2\Guia2\Guia2\obj\Debug\Guia2.pdb

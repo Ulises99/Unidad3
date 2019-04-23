@@ -1,0 +1,25 @@
+C:\Users\Lab3\Desktop\Guia#1\Ejercicio1\Ejercicio1\bin\Debug\Ejercicio1.exe.config
+C:\Users\Lab3\Desktop\Guia#1\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.csprojResolveAssemblyReference.cache
+C:\Users\Lab3\Desktop\Guia#1\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.MDIParent1.resources
+C:\Users\Lab3\Desktop\Guia#1\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.Properties.Resources.resources
+C:\Users\Lab3\Desktop\Guia#1\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.csproj.GenerateResource.Cache
+C:\Users\Lab3\Desktop\Guia#1\Ejercicio1\Ejercicio1\bin\Debug\Ejercicio1.exe
+C:\Users\Lab3\Desktop\Guia#1\Ejercicio1\Ejercicio1\bin\Debug\Ejercicio1.pdb
+C:\Users\Lab3\Desktop\Guia#1\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.exe
+C:\Users\Lab3\Desktop\Guia#1\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.pdb
+C:\Users\Lab3\Desktop\Guia#1\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.Ejercicio1.resources
+C:\Users\Lab3\Desktop\Guia#1\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.Ejercicio2.resources
+C:\Users\ulise\Desktop\Ciclo_5\Progra 1\U_3\Guias\Ejercicio1\Ejercicio1\bin\Debug\Ejercicio1.exe.config
+C:\Users\ulise\Desktop\Ciclo_5\Progra 1\U_3\Guias\Ejercicio1\Ejercicio1\bin\Debug\Ejercicio1.exe
+C:\Users\ulise\Desktop\Ciclo_5\Progra 1\U_3\Guias\Ejercicio1\Ejercicio1\bin\Debug\Ejercicio1.pdb
+C:\Users\ulise\Desktop\Ciclo_5\Progra 1\U_3\Guias\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.csprojAssemblyReference.cache
+C:\Users\ulise\Desktop\Ciclo_5\Progra 1\U_3\Guias\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.Ejercicio1.resources
+C:\Users\ulise\Desktop\Ciclo_5\Progra 1\U_3\Guias\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.Ejercicio2.resources
+C:\Users\ulise\Desktop\Ciclo_5\Progra 1\U_3\Guias\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.MDIParent1.resources
+C:\Users\ulise\Desktop\Ciclo_5\Progra 1\U_3\Guias\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.Properties.Resources.resources
+C:\Users\ulise\Desktop\Ciclo_5\Progra 1\U_3\Guias\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.csproj.GenerateResource.cache
+C:\Users\ulise\Desktop\Ciclo_5\Progra 1\U_3\Guias\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.csproj.CoreCompileInputs.cache
+C:\Users\ulise\Desktop\Ciclo_5\Progra 1\U_3\Guias\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.exe
+C:\Users\ulise\Desktop\Ciclo_5\Progra 1\U_3\Guias\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.pdb
+C:\Users\ulise\Desktop\Ciclo_5\Progra 1\U_3\Guias\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.Ejercicio3.resources
+C:\Users\ulise\Desktop\Ciclo_5\Progra 1\U_3\Guias\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.Ejercicio4.resources

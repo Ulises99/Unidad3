@@ -1,0 +1,19 @@
+C:\Users\Lab3\Desktop\11-04-2019\Proyecto1\Proyecto1\bin\Debug\Proyecto1.exe.config
+C:\Users\Lab3\Desktop\11-04-2019\Proyecto1\Proyecto1\obj\Debug\Proyecto1.csprojResolveAssemblyReference.cache
+C:\Users\Lab3\Desktop\11-04-2019\Proyecto1\Proyecto1\obj\Debug\Proyecto1.MDIParent1.resources
+C:\Users\Lab3\Desktop\11-04-2019\Proyecto1\Proyecto1\obj\Debug\Proyecto1.Properties.Resources.resources
+C:\Users\Lab3\Desktop\11-04-2019\Proyecto1\Proyecto1\obj\Debug\Proyecto1.csproj.GenerateResource.Cache
+C:\Users\Lab3\Desktop\11-04-2019\Proyecto1\Proyecto1\bin\Debug\Proyecto1.exe
+C:\Users\Lab3\Desktop\11-04-2019\Proyecto1\Proyecto1\bin\Debug\Proyecto1.pdb
+C:\Users\Lab3\Desktop\11-04-2019\Proyecto1\Proyecto1\obj\Debug\Proyecto1.exe
+C:\Users\Lab3\Desktop\11-04-2019\Proyecto1\Proyecto1\obj\Debug\Proyecto1.pdb
+C:\Users\ulise\Desktop\Nueva carpeta (2)\11-04-2019\Proyecto1\Proyecto1\bin\Debug\Proyecto1.exe.config
+C:\Users\ulise\Desktop\Nueva carpeta (2)\11-04-2019\Proyecto1\Proyecto1\bin\Debug\Proyecto1.exe
+C:\Users\ulise\Desktop\Nueva carpeta (2)\11-04-2019\Proyecto1\Proyecto1\bin\Debug\Proyecto1.pdb
+C:\Users\ulise\Desktop\Nueva carpeta (2)\11-04-2019\Proyecto1\Proyecto1\obj\Debug\Proyecto1.csprojAssemblyReference.cache
+C:\Users\ulise\Desktop\Nueva carpeta (2)\11-04-2019\Proyecto1\Proyecto1\obj\Debug\Proyecto1.MDIParent1.resources
+C:\Users\ulise\Desktop\Nueva carpeta (2)\11-04-2019\Proyecto1\Proyecto1\obj\Debug\Proyecto1.Properties.Resources.resources
+C:\Users\ulise\Desktop\Nueva carpeta (2)\11-04-2019\Proyecto1\Proyecto1\obj\Debug\Proyecto1.csproj.GenerateResource.cache
+C:\Users\ulise\Desktop\Nueva carpeta (2)\11-04-2019\Proyecto1\Proyecto1\obj\Debug\Proyecto1.csproj.CoreCompileInputs.cache
+C:\Users\ulise\Desktop\Nueva carpeta (2)\11-04-2019\Proyecto1\Proyecto1\obj\Debug\Proyecto1.exe
+C:\Users\ulise\Desktop\Nueva carpeta (2)\11-04-2019\Proyecto1\Proyecto1\obj\Debug\Proyecto1.pdb

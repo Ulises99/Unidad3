@@ -1,0 +1,19 @@
+C:\Users\Lab3\Desktop\2-04-2019\Programa0001\Programa0001\bin\Debug\Programa0001.exe.config
+C:\Users\Lab3\Desktop\2-04-2019\Programa0001\Programa0001\bin\Debug\Programa0001.exe
+C:\Users\Lab3\Desktop\2-04-2019\Programa0001\Programa0001\bin\Debug\Programa0001.pdb
+C:\Users\Lab3\Desktop\2-04-2019\Programa0001\Programa0001\obj\Debug\Programa0001.csprojResolveAssemblyReference.cache
+C:\Users\Lab3\Desktop\2-04-2019\Programa0001\Programa0001\obj\Debug\Programa0001.Form1.resources
+C:\Users\Lab3\Desktop\2-04-2019\Programa0001\Programa0001\obj\Debug\Programa0001.Properties.Resources.resources
+C:\Users\Lab3\Desktop\2-04-2019\Programa0001\Programa0001\obj\Debug\Programa0001.csproj.GenerateResource.Cache
+C:\Users\Lab3\Desktop\2-04-2019\Programa0001\Programa0001\obj\Debug\Programa0001.exe
+C:\Users\Lab3\Desktop\2-04-2019\Programa0001\Programa0001\obj\Debug\Programa0001.pdb
+C:\Users\ulise\Desktop\Nueva carpeta (2)\2-04-2019\Programa0001\Programa0001\bin\Debug\Programa0001.exe.config
+C:\Users\ulise\Desktop\Nueva carpeta (2)\2-04-2019\Programa0001\Programa0001\bin\Debug\Programa0001.exe
+C:\Users\ulise\Desktop\Nueva carpeta (2)\2-04-2019\Programa0001\Programa0001\bin\Debug\Programa0001.pdb
+C:\Users\ulise\Desktop\Nueva carpeta (2)\2-04-2019\Programa0001\Programa0001\obj\Debug\Programa0001.csprojAssemblyReference.cache
+C:\Users\ulise\Desktop\Nueva carpeta (2)\2-04-2019\Programa0001\Programa0001\obj\Debug\Programa0001.Form1.resources
+C:\Users\ulise\Desktop\Nueva carpeta (2)\2-04-2019\Programa0001\Programa0001\obj\Debug\Programa0001.Properties.Resources.resources
+C:\Users\ulise\Desktop\Nueva carpeta (2)\2-04-2019\Programa0001\Programa0001\obj\Debug\Programa0001.csproj.GenerateResource.cache
+C:\Users\ulise\Desktop\Nueva carpeta (2)\2-04-2019\Programa0001\Programa0001\obj\Debug\Programa0001.csproj.CoreCompileInputs.cache
+C:\Users\ulise\Desktop\Nueva carpeta (2)\2-04-2019\Programa0001\Programa0001\obj\Debug\Programa0001.exe
+C:\Users\ulise\Desktop\Nueva carpeta (2)\2-04-2019\Programa0001\Programa0001\obj\Debug\Programa0001.pdb
